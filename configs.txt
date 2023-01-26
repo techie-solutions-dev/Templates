@@ -1,3 +1,0 @@
-version: "2"
-authtoken: 2JBSmrq5qyt8dTNXKG9r5PE8bC4_7cTkNS5DXby6AXbVzPVSN
-server_addr: tunnel.us.ssh.instantresumemakeover.com:443
